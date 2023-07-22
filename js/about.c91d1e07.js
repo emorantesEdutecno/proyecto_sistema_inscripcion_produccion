@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproyecto_sistema_inscripcion"]=self["webpackChunkproyecto_sistema_inscripcion"]||[]).push([[443],{507:function(n,s,t){t.r(s),t.d(s,{default:function(){return a}});var i=function(){var n=this;n._self._c;return n._m(0)},e=[function(){var n=this,s=n._self._c;return s("div",{staticClass:"about"},[s("h1",[n._v("This is an about page")])])}],u=t(1),c={},r=(0,u.Z)(c,i,e,!1,null,null,null),a=r.exports}}]);
+//# sourceMappingURL=about.c91d1e07.js.map
